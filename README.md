@@ -5,7 +5,7 @@ visualization, and reproducible research.
 
 ## Goals
 
-This repository documenting progress in learning and practicing R.
+This repository documents my progress in learning and practicing R.
 
 Topics will include:
 
@@ -17,6 +17,11 @@ Topics will include:
 - Reproducible research
 
 ## Repository Structure
+## Lessons
+
+### 01. R Basics
+
+- [Objects and Assignment](01-r-basics/01-objects.R)
 
 The repository will gradually be organized into lessons, exercises, datasets,
 figures, and small projects.
@@ -25,8 +30,11 @@ figures, and small projects.
 
 - [x] Create GitHub repository
 - [x] Create README
-- [ ] Learn Git commits
-- [ ] Learn Git branches
-- [ ] Learn pull requests
-- [ ] Connect repository to RStudio
-- [ ] Add first R script
+- [x] Learn Git commits
+- [x] Learn Git branches
+- [x] Learn pull requests
+- [x] Connect repository to RStudio
+- [x] Add first R script
+- [ ] Learn `git pull`
+- [ ] Learn merge conflicts
+- [ ] Learn `.gitignore`
